@@ -1,16 +1,728 @@
+s
+Subject: 考勤异常消息提醒
+From: 锐明集团 <streamax-itsupport@streamax.com>
+
+HTML Email: Darren Boesono(100033319) 考勤异常：  <br/> 
+2025-02-05 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-06 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-07  早退 7 分钟。  <br/> 2025-02-11 缺失上班卡、下班卡。 缺勤 8 小时。  <br/>   <br/> 
+说明：考勤异常是因请假、出差、漏打卡等原因引起，应及时提交流程处理考勤异常。  <br/> 
+如有疑问请联系当地负责考勤人事。  <br/>Subject: 【年会】2024年年度大会暨2025年迎春晚会邀请函 2024 Annual Conference & 2025 Spring Gala Invitation
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
+
+亲爱的锐明人：
+
+
+Dear all，
+
+
+
+
+诚邀您参加锐明技术2024年年度大会暨2025年迎春晚会。
+
+We would like to invite you to attend 2024 Annual Conference & 2025 Spring Gala with details as below.
+
+
+
+
+时间 Date：
+
+2月15日 周六 13:00-21:00
+
+Feb 15, Saturday, 13:00-21:00
+
+
+
+
+地点 Venue：
+
+主会场 Main venue
+
+深圳宝安·宝立方中心：宝安区新安四路198号
+
+Gems Cube International Hotel : No. 198, Xin'an 4th Road, Bao'an District
+
+分会场 Sub-venue
+
+重庆万豪酒店：重庆市南岸区烟雨路9号
+
+Chongqing Marriott Hotel : No. 9, Yanyu Road, Nan'an District, Chongqing City
+
+成都天投万怡酒店：成都市天府新区博览城路288号
+
+Courtyard by Marriott Chengdu Tiantou : No. 288, Expo City Road, Tianfu New Area
+
+
+
+
+流程 Agenda：
+
+13:00-14:00 签到Sign in
+
+14:00-18:00 2024年年度大会 2024 Annual Conference
+
+19:00-21:00 2025年迎春晚会 2024 Spring Gala
+
+
+
+
+着装要求 Dress Code：
+
+男士正装，女士礼服或正装（Man-Suits, Women-Dresses or Suits）
+
+ 
+
+活动详情及精彩内容请参阅附件海报。
+
+For event details and highlights, please refer to the poster in the attachment.
+
+
+
+
+锐明年会执行组
+
+Streamax Annual Conference Executive Group
+
+
+
+
+
+
+
+ Subject: Retail Connectivity, Reimagined with Nextivity
+From: Tony Hedberg <THedberg@getwirelessllc.com>
+
+HTML Email: <!DOCTYPE html><html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en"><head><style type='text/css'>
+span.preheader { display:none !important; visibility:hidden;line-height:0; opacity:0; font-size:0.1px; color:white; height:0; width:0; }
+</style>
+<title></title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><!--><link 
+href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900" rel="stylesheet" type="text/css"><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0}#converted-body .list_block ol,#converted-body .list_block ul,.body [class~=x_list_block] ol,.body [class~=x_list_block] ul,u+.body .list_block ol,u+.body .list_block ul{padding-left:20px} @media (max-width:768px){.row-4 .column-2 .block-4.button_block .alignment a,.row-4 .column-2 .block-4.button_block .alignment div,.social_block.desktop_hide .social-table{display:inline-block!important}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{display:none}.row-content{width:100%!important}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-height:none!important}.row-2 .column-1 .block-5.heading_block h1{font-size:30px!important}.row-4 .column-2 .block-1.paragraph_block td.pad>div,.row-4 .column-2 .block-2.paragraph_block td.pad>div,.row-4 .column-2 .block-4.button_block .alignment,.row-6 .column-2 .block-1.heading_block h2{text-align:center!important}.row-4 .column-2 .block-4.button_block a,.row-4 .column-2 .block-4.button_block div,.row-4 .column-2 .block-4.button_block span{line-height:32px!important}.row-6 .column-2 .block-1.heading_block h2{font-size:20px!important}.row-2 .column-1{padding:5px 0!important}.row-4 .column-1{padding:5px 30px!important}.row-4 .column-2{padding:30px 0!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></head><body class="body" style="background-color:#fff;margin:0;padding:0;-webkit-text-size-adjust:none;text-size-adjust:none"><span class='preheader' style='display: none !important; visibility: line-height:0; hidden; opacity: 0; font-size:0.1px; color: white; height: 0; width: 0;'>See Inside for Details                                                                                                                                 </span><img src="https://elink.clickdimensions.com/o/4/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkifQ/f4dxnxq6iIiarpK3Bea95w" width="1" height="1" /><table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff"><tbody><tr><td><table class="row row-1" align="center" 
+width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#c2d832"><tbody><tr><td><table class="row-content" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="100%" 
+style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0"><div class="spacer_block block-1" style="height:10px;line-height:10px;font-size:1px"> </div></td></tr></tbody></table></td></tr></tbody></table><table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;background-size:auto"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-size:auto;border-radius:25px;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="100%" 
+style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-left:30px;padding-right:30px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><div class="spacer_block block-1 mobile_hide" style="height:40px;line-height:40px;font-size:1px"> </div><table class="image_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr>
+<td class="pad" style="width:100%"><div class="alignment" align="center" style="line-height:10px"><div style="max-width:840px"><img src="https://file-us.clickdimensions.com/getwirelessllccom-a1djr/files/email_nextivity-getwireless-header.jpg?m=8/25/2023%206:23:45%20PM" style="display:block;height:auto;border:0;width:100%" width="840" alt title height="auto"></div></div></td></tr></table><table class="image_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" 
+role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="width:100%"><div class="alignment" align="center" style="line-height:10px"><div style="max-width:840px"><img src="https://file-us.clickdimensions.com/getwirelessllccom-a1djr/files/nextivityheaderemail-retail2.png?m=1/14/2025%204:37:35%20PM" style="display:block;height:auto;border:0;width:100%;border-radius:25px" width="840" alt title height="auto"></div></div></td></tr></table><div 
+class="spacer_block block-4 mobile_hide" style="height:6px;line-height:6px;font-size:1px"> </div><table class="heading_block block-5" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><h1 
+style="margin:0;color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:38px;font-weight:700;letter-spacing:normal;line-height:150%;text-align:center;margin-top:0;margin-bottom:0;mso-line-height-alt:57px"><span class="tinyMce-placeholder" style="word-break: break-word;">Reliable In-Store Coverage for a Seamless Retail Experience</span></h1></td></tr></table><table class="paragraph_block block-6" width="100%" 
+border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad"><div style="color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:15px;font-weight:400;letter-spacing:0;line-height:150%;text-align:center;mso-line-height-alt:22.5px"><p style="margin:0">
+In today’s dynamic retail environment, Nextivity offers industry-leading solutions to improve wireless coverage in retail spaces. Whether you need enhanced cellular connectivity for point-of-sale systems, inventory management, or customer engagement tools, Nextivity’s solutions deliver the reliability and performance your business needs. <br><br>As a distributor of Nextivity products, GetWireless is here to help you find the right connectivity solution for your retail operations.</p></div>
+</td></tr></table><div class="spacer_block block-7" style="height:25px;line-height:25px;font-size:1px"> </div></td></tr></tbody></table></td></tr></tbody></table><table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="button_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div class="alignment" align="center"><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.getwirelessllc.com/nextivity/" style="height:42px;width:277px;v-text-anchor:middle;" arcsize="24%" stroke="false" fillcolor="#c2d832">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+<center dir="false" style="color:#ffffff;font-family:Tahoma, sans-serif;font-size:16px">
+<![endif]-->
+<a class="button" href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiIwIiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly93d3cuZ2V0d2lyZWxlc3NsbGMuY29tL25leHRpdml0eS8_X2NsZGVlPVdkSTVtNUU4RmdEZ2twM0lPWXFJMzlVLWl2LXBCblV6SHlmS3BGMkxnVlpwakdISFdmeXdWMy1qZ0V3Rkl5UW4mcmVjaXBpZW50aWQ9bGVhZC04ZGFmZTllYTExNDRlYzExOGM2MDAwMGQzYTUzNjRmMS1kMGJkZWEwMjk5NDk0MjY5OGNmOTkzMWQ0ZTJmYzhmZSZ1dG1fc291cmNlPUNsaWNrRGltZW5zaW9ucyZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ETV9Qcm9zcGVjdGluZyUyMENhbXBhaWduJTIwMi4wJmVzaWQ9OGJiM2Y2MjMtMTllYS1lZjExLWJlMWYtMDAyMjQ4MzFhOGU1In0/ghy2uQckkwWA4vpdx35OJw" target="_blank" style="background-color:#c2d832;border-bottom:0px solid #3d4248;border-left:0px solid #3d4248;border-radius:10px;border-right:0px solid #3d4248;border-top:0px solid #3d4248;color:#ffffff;display:inline-block;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:400;mso-border-alt:none;padding-bottom:5px;padding-top:5px;text-align:center;text-decoration:none;width:auto;word-break:keep-all;"><span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 16px; display: inline-block; letter-spacing: normal;"><span style="word-break: break-word; line-height: 32px;">Learn more about Nextivity</span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr></table><div class="spacer_block block-2" style="height:25px;line-height:25px;font-size:1px"> </div></td></tr></tbody></table></td></tr></tbody></table><table class="row row-4" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" 
+cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f9f9f9;border-radius:25px;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="50%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-left:30px;padding-right:30px;padding-top:5px;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="image_block block-1" 
+width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div class="alignment" align="center" style="line-height:10px"><div class="fullWidth" style="max-width:370px"><img src="https://file-us.clickdimensions.com/getwirelessllccom-a1djr/files/go-g43-frontnoback.png?m=11/13/2024%204:32:34%20PM" style="display:block;height:auto;border:0;width:100%" width="370" alt="SHIELD MegaFi Product Photo" 
+title="SHIELD MegaFi Product Photo" height="auto"></div></div></td></tr></table></td><td class="column column-2" width="50%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:30px;padding-right:30px;padding-top:30px;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-left:10px;padding-right:10px"><div style="color:#c2d832;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:15px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:18px"><p style="margin:0"><strong>Featured Retail Solution</strong></p></div></td></tr></table><table 
+class="paragraph_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad" style="padding-bottom:5px;padding-left:10px;padding-right:10px;padding-top:5px"><div 
+style="color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:20px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:24px"><p style="margin:0"><strong>CEL-FI </strong>GO G43</p></div></td></tr></table><table class="list_block block-3" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word;color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:15px;font-weight:400;letter-spacing:0;line-height:150%;text-align:left;mso-line-height-alt:22.5px"><tr><td class="pad"><div style="margin-left:-20px"><ul start="1" style="margin-top:0;margin-bottom:0;list-style-type:revert"><li style="Margin:0">Seamless connectivity</li><li style="Margin:0">
+Multi-carrier support</li><li style="Margin:0">Enhanced customer experience </li><li style="Margin:0">Easy installation</li><li style="Margin:0">Remote monitoring with Nextivity WAVE Portal</li></ul></div></td></tr></table><table class="button_block block-4" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-left:10px;padding-right:10px;padding-top:10px;text-align:left"><div 
+class="alignment" align="left"><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.getwirelessllc.com/wp-content/uploads/2023/10/CEL-FI-GO-G43-AMER-Datasheet.pdf" style="height:43px;width:230px;v-text-anchor:middle;" arcsize="24%" strokeweight="0.75pt" strokecolor="#3d4248" fill="false">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+<center dir="false" style="color:#393d47;font-family:Tahoma, sans-serif;font-size:16px">
+<![endif]-->
+<a class="button" href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiIxIiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly93d3cuZ2V0d2lyZWxlc3NsbGMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzEwL0NFTC1GSS1HTy1HNDMtQU1FUi1EYXRhc2hlZXQucGRmP19jbGRlZT1XZEk1bTVFOEZnRGdrcDNJT1lxSTM5VS1pdi1wQm5Vekh5ZktwRjJMZ1ZacGpHSEhXZnl3VjMtamdFd0ZJeVFuJnJlY2lwaWVudGlkPWxlYWQtOGRhZmU5ZWExMTQ0ZWMxMThjNjAwMDBkM2E1MzY0ZjEtZDBiZGVhMDI5OTQ5NDI2OThjZjk5MzFkNGUyZmM4ZmUmdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249RE1fUHJvc3BlY3RpbmclMjBDYW1wYWlnbiUyMDIuMCZlc2lkPThiYjNmNjIzLTE5ZWEtZWYxMS1iZTFmLTAwMjI0ODMxYThlNSJ9/QNGquYounc4sG2BXaMsI4w" target="_blank" style="background-color:transparent;border-bottom:1px solid #3d4248;border-left:1px solid #3d4248;border-radius:10px;border-right:1px solid #3d4248;border-top:1px solid #3d4248;color:#393d47;display:inline-block;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:400;mso-border-alt:none;padding-bottom:5px;padding-top:5px;text-align:center;text-decoration:none;width:auto;word-break:keep-all;"><span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 16px; display: inline-block; letter-spacing: normal;"><span style="word-break: break-word; line-height: 32px;">Download Datasheet</span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-5" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="divider_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-bottom:20px;padding-top:20px"><div class="alignment" align="center"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="divider_inner" style="font-size:1px;line-height:1px;border-top:1px solid #bbb"><span style="word-break: break-word;"> </span></td></tr></table></div></td></tr></table></td></tr></tbody></table></td>
+</tr></tbody></table><table class="row row-6" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="16.666666666666668%" 
+style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="image_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div class="alignment" align="center" style="line-height:10px"><div style="max-width:130px">
+<a href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiIyIiwidW4iOiIiLCJ1Ijoid3d3LmV4YW1wbGUuY29tP19jbGRlZT1XZEk1bTVFOEZnRGdrcDNJT1lxSTM5VS1pdi1wQm5Vekh5ZktwRjJMZ1ZacGpHSEhXZnl3VjMtamdFd0ZJeVFuJnJlY2lwaWVudGlkPWxlYWQtOGRhZmU5ZWExMTQ0ZWMxMThjNjAwMDBkM2E1MzY0ZjEtZDBiZGVhMDI5OTQ5NDI2OThjZjk5MzFkNGUyZmM4ZmUmdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249RE1fUHJvc3BlY3RpbmclMjBDYW1wYWlnbiUyMDIuMCZlc2lkPThiYjNmNjIzLTE5ZWEtZWYxMS1iZTFmLTAwMjI0ODMxYThlNSJ9/IyC_12aWRaptzpKiJalPUw" target="_blank" style="outline:none" tabindex="-1"><img src="https://file-us.clickdimensions.com/getwirelessllccom-a1djr/files/tony-hedberg-email-photo.png?m=6/6/2024%206:53:30%20PM" style="display:block;height:auto;border:0;width:100%" width="130" alt="Listening to Webinar" title="Listening to Webinar" height="auto"></a></div></div></td></tr></table></td><td class="column column-2" width="83.33333333333333%" 
+style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-left:10px;padding-right:10px;padding-top:5px;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="heading_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-left:10px;padding-right:10px;padding-top:10px;text-align:center;width:100%">
+<h2 style="margin:0;color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:25px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;mso-line-height-alt:30px"><span class="tinyMce-placeholder" style="word-break: break-word;">Have any related questions or want to connect?</span></h2></td></tr></table><table class="paragraph_block block-2" width="100%" border="0" 
+cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad"><div style="color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:14px;font-weight:400;letter-spacing:0;line-height:150%;text-align:left;mso-line-height-alt:21px"><p style="margin:0">
+Ready to learn how Nextivity solutions can meet your unique needs? Contact me today and start building stronger, more resilient connectivity. I'd love to help! Feel free to book time on my calendar using the link below or request more info about Nextivity!</p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-7" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+<tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="16.666666666666668%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table 
+class="empty_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div></div></td></tr></table></td><td class="column column-2" width="33.333333333333336%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="button_block block-1" width="100%" 
+border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-bottom:10px;padding-left:10px;padding-right:10px;text-align:left"><div class="alignment" align="left"><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://outlook.office.com/bookwithme/user/3124c90f532b47ba846d5319c01be2b3%40b9b8fda3-3026-4e58-81b3-6477129829ff/meetingtype/09705449-c7ee-4131-b1b9-3e961b18baf2" style="height:42px;width:269px;v-text-anchor:middle;" arcsize="24%" stroke="false" fillcolor="#c2d832">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+<center dir="false" style="color:#ffffff;font-family:Tahoma, sans-serif;font-size:16px">
+<![endif]-->
+<a class="button" href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiIzIiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vYm9va3dpdGhtZS91c2VyLzMxMjRjOTBmNTMyYjQ3YmE4NDZkNTMxOWMwMWJlMmIzJTQwYjliOGZkYTMtMzAyNi00ZTU4LTgxYjMtNjQ3NzEyOTgyOWZmL21lZXRpbmd0eXBlLzA5NzA1NDQ5LWM3ZWUtNDEzMS1iMWI5LTNlOTYxYjE4YmFmMj9fY2xkZWU9V2RJNW01RThGZ0Rna3AzSU9ZcUkzOVUtaXYtcEJuVXpIeWZLcEYyTGdWWnBqR0hIV2Z5d1YzLWpnRXdGSXlRbiZyZWNpcGllbnRpZD1sZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPURNX1Byb3NwZWN0aW5nJTIwQ2FtcGFpZ24lMjAyLjAmZXNpZD04YmIzZjYyMy0xOWVhLWVmMTEtYmUxZi0wMDIyNDgzMWE4ZTUifQ/cslhiQhrPOR9Art4nVm0dQ" target="_blank" style="background-color:#c2d832;border-bottom:0px solid #3d4248;border-left:0px solid #3d4248;border-radius:10px;border-right:0px solid #3d4248;border-top:0px solid #3d4248;color:#ffffff;display:inline-block;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:400;mso-border-alt:none;padding-bottom:5px;padding-top:5px;text-align:center;text-decoration:none;width:auto;word-break:keep-all;"><span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 16px; display: inline-block; letter-spacing: normal;"><span style="word-break: break-word; line-height: 32px;">Schedule a chat with Tony</span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr></table></td><td class="column column-3" width="50%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="button_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" 
+style="padding-bottom:10px;padding-left:10px;padding-right:10px;text-align:left"><div class="alignment" align="left"><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="mailto:THedberg@getwirelessllc.com?subject=Inquiry%20About%20Nextivity%20Retail%20Solutions&body=I%E2%80%99m%20interested%20in%20learning%20more%20about%20Nextivity%E2%80%99s%20solutions%20for%20retail%20connectivity.%20Can%20you%20provide%20more%20details%20on%20how%20these%20solutions%20can%20support%20my%20business%3F%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%2C" style="height:42px;width:207px;v-text-anchor:middle;" arcsize="24%" stroke="false" fillcolor="#c2d832">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+<center dir="false" style="color:#ffffff;font-family:Tahoma, sans-serif;font-size:16px">
+<![endif]-->
+<a class="button" href="mailto:THedberg@getwirelessllc.com?subject=Inquiry%20About%20Nextivity%20Retail%20Solutions&body=I%E2%80%99m%20interested%20in%20learning%20more%20about%20Nextivity%E2%80%99s%20solutions%20for%20retail%20connectivity.%20Can%20you%20provide%20more%20details%20on%20how%20these%20solutions%20can%20support%20my%20business%3F%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%2C" target="_blank" style="background-color:#c2d832;border-bottom:0px solid #3d4248;border-left:0px solid #3d4248;border-radius:10px;border-right:0px solid #3d4248;border-top:0px solid #3d4248;color:#ffffff;display:inline-block;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:400;mso-border-alt:none;padding-bottom:5px;padding-top:5px;text-align:center;text-decoration:none;width:auto;word-break:keep-all;"><span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 16px; display: inline-block; letter-spacing: normal;"><span style="word-break: break-word; line-height: 32px;">Request More Info</span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class="row row-8" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class="divider_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" 
+style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-bottom:20px;padding-top:20px"><div class="alignment" align="center"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="divider_inner" style="font-size:1px;line-height:1px;border-top:1px solid #bbb"><span style="word-break: break-word;"> </span></td></tr></table></div></td></tr></table></td></tr></tbody></table></td>
+</tr></tbody></table><table class="row row-9" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f2f2f2"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;border-radius:25px 25px 0 0;color:#000;width:900px;margin:0 auto" width="900"><tbody><tr><td class="column column-1" 
+width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0"><div class="spacer_block block-1" style="height:40px;line-height:40px;font-size:1px"> </div><table class="image_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" 
+style="width:100%;padding-right:0;padding-left:0"><div class="alignment" align="center" style="line-height:10px"><div class="fullWidth" style="max-width:900px"><img src="https://file-us.clickdimensions.com/getwirelessllccom-a1djr/files/getwireless-circle-footer.jpg?m=8/24/2023%209:58:03%20PM" style="display:block;height:auto;border:0;width:100%" width="900" alt="Alternative desc" title="Alternative desc" height="auto"></div></div></td></tr></table><table class="paragraph_block block-3" 
+width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad"><div style="color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:14px;font-weight:400;letter-spacing:0;line-height:120%;text-align:center;mso-line-height-alt:16.8px"><p style="margin:0;margin-bottom:16px"><strong>GetWireless, LLC</strong></p><p 
+style="margin:0;margin-bottom:16px">10250 Valley View Rd, Suite 139</p><p style="margin:0;margin-bottom:16px">Eden Prairie, MN 55344</p><p style="margin:0">(952) 890-6669</p></div></td></tr></table><table class="social_block block-4" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div class="alignment" align="center"><table class="social-table" width="168px" border="0" cellpadding="0" cellspacing="0" 
+role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;display:inline-block"><tr><td style="padding:0 5px 0 5px"><a href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiI0IiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZ2V0d2lyZWxlc3MvP19jbGRlZT1XZEk1bTVFOEZnRGdrcDNJT1lxSTM5VS1pdi1wQm5Vekh5ZktwRjJMZ1ZacGpHSEhXZnl3VjMtamdFd0ZJeVFuJnJlY2lwaWVudGlkPWxlYWQtOGRhZmU5ZWExMTQ0ZWMxMThjNjAwMDBkM2E1MzY0ZjEtZDBiZGVhMDI5OTQ5NDI2OThjZjk5MzFkNGUyZmM4ZmUmdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249RE1fUHJvc3BlY3RpbmclMjBDYW1wYWlnbiUyMDIuMCZlc2lkPThiYjNmNjIzLTE5ZWEtZWYxMS1iZTFmLTAwMjI0ODMxYThlNSJ9/i-8KIu0iTGcHutjykonLmg" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/default-gray/linkedin@2x.png" width="32" height="auto" alt="Linkedin" title="linkedin" style="display:block;height:auto;border:0"></a></td><td style="padding:0 5px 0 5px">
+<a href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiI1IiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vYy9nZXR3aXJlbGVzcz9fY2xkZWU9V2RJNW01RThGZ0Rna3AzSU9ZcUkzOVUtaXYtcEJuVXpIeWZLcEYyTGdWWnBqR0hIV2Z5d1YzLWpnRXdGSXlRbiZyZWNpcGllbnRpZD1sZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPURNX1Byb3NwZWN0aW5nJTIwQ2FtcGFpZ24lMjAyLjAmZXNpZD04YmIzZjYyMy0xOWVhLWVmMTEtYmUxZi0wMDIyNDgzMWE4ZTUifQ/4pH6p9DjWtfI62oZ1iz1DA" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/default-gray/youtube@2x.png" width="32" height="auto" alt="YouTube" title="YouTube" style="display:block;height:auto;border:0"></a></td><td style="padding:0 5px 0 5px"><a href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiI2IiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9nZXR3aXJlbGVzc2xsYz9fY2xkZWU9V2RJNW01RThGZ0Rna3AzSU9ZcUkzOVUtaXYtcEJuVXpIeWZLcEYyTGdWWnBqR0hIV2Z5d1YzLWpnRXdGSXlRbiZyZWNpcGllbnRpZD1sZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPURNX1Byb3NwZWN0aW5nJTIwQ2FtcGFpZ24lMjAyLjAmZXNpZD04YmIzZjYyMy0xOWVhLWVmMTEtYmUxZi0wMDIyNDgzMWE4ZTUifQ/-jjR3KNSPinokKf4zZDIiA" target="_blank"><img 
+src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/default-gray/twitter@2x.png" width="32" height="auto" alt="Twitter" title="twitter" style="display:block;height:auto;border:0"></a></td><td style="padding:0 5px 0 5px"><a href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiI3IiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2dldHdpcmVsZXNzbGxjLz9fY2xkZWU9V2RJNW01RThGZ0Rna3AzSU9ZcUkzOVUtaXYtcEJuVXpIeWZLcEYyTGdWWnBqR0hIV2Z5d1YzLWpnRXdGSXlRbiZyZWNpcGllbnRpZD1sZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPURNX1Byb3NwZWN0aW5nJTIwQ2FtcGFpZ24lMjAyLjAmZXNpZD04YmIzZjYyMy0xOWVhLWVmMTEtYmUxZi0wMDIyNDgzMWE4ZTUifQ/m8rAosBffKsQG4DiSiqjrg" target="_blank"><img src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/default-gray/facebook@2x.png" width="32" height="auto" alt="Facebook" title="facebook" 
+style="display:block;height:auto;border:0"></a></td></tr></table></div></td></tr></table><table class="paragraph_block block-5" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad"><div 
+style="color:#393d47;direction:ltr;font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:14px;font-weight:400;letter-spacing:0;line-height:120%;text-align:center;mso-line-height-alt:16.8px"><p style="margin:0"><a href="https://elink.clickdimensions.com/m/1/54801275/02-b25044-813c66d7c1a942199b29a3f02522ffb9/2/324/4e8c1a16-8b27-4897-b494-1a324203f38e" target="_blank" rel="noopener" style="color: #00a3e0;">View in Browser</a>  | <a href="https://elink.clickdimensions.com/c/7/eyJhaSI6NTQ4MDEyNzUsImUiOiJkYXJyZW5Ac3RyZWFtYXguY29tIiwicmkiOiJsZWFkLThkYWZlOWVhMTE0NGVjMTE4YzYwMDAwZDNhNTM2NGYxLWQwYmRlYTAyOTk0OTQyNjk4Y2Y5OTMxZDRlMmZjOGZlIiwicnEiOiIwMi1iMjUwNDQtODEzYzY2ZDdjMWE5NDIxOTliMjlhM2YwMjUyMmZmYjkiLCJtIjpmYWxzZSwidWkiOiI4IiwidW4iOiIiLCJ1IjoiaHR0cHM6Ly93d3cuZ2V0d2lyZWxlc3NsbGMuY29tL3ByaXZhY3kvP19jbGRlZT1XZEk1bTVFOEZnRGdrcDNJT1lxSTM5VS1pdi1wQm5Vekh5ZktwRjJMZ1ZacGpHSEhXZnl3VjMtamdFd0ZJeVFuJnJlY2lwaWVudGlkPWxlYWQtOGRhZmU5ZWExMTQ0ZWMxMThjNjAwMDBkM2E1MzY0ZjEtZDBiZGVhMDI5OTQ5NDI2OThjZjk5MzFkNGUyZmM4ZmUmdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249RE1fUHJvc3BlY3RpbmclMjBDYW1wYWlnbiUyMDIuMCZlc2lkPThiYjNmNjIzLTE5ZWEtZWYxMS1iZTFmLTAwMjI0ODMxYThlNSJ9/VwHKVUU2GRR5QqYxr2cjiw" target="_blank" rel="noopener" style="color: #00a3e0;">Privacy Policy</a>  | <a href="https://analytics.clickdimensions.com/getwirelessllccom-a1djr/pages/n6kdktz2eeebdahg2phmq.html?_cldunsub=8bb3f62319eaef11be1f00224831a8e5-d0bdea02994942698cf9931d4e2fc8fe-lead&_cldee=WdI5m5E8FgDgkp3IOYqI39U-iv-pBnUzHyfKpF2LgVZpjGHHWfywV3-jgEwFIyQn&recipientid=lead-8dafe9ea1144ec118c60000d3a5364f1-d0bdea02994942698cf9931d4e2fc8fe&utm_source=ClickDimensions&utm_medium=email&utm_campaign=DM_Prospecting%20Campaign%202.0&esid=8bb3f623-19ea-ef11-be1f-00224831a8e5" target="_blank" rel="noopener" style="color: #00a3e0;" autotrack="false">Subscription Preferences</a></p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table><!-- End --></body></html>Subject: 考勤异常消息提醒
+From: 锐明集团 <streamax-itsupport@streamax.com>
+
+HTML Email: Darren Boesono(100033319) 考勤异常：  <br/> 
+2025-02-11 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-12 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-13 缺失上班卡、下班卡。 缺勤 8 小时。  <br/>   <br/> 
+说明：考勤异常是因请假、出差、漏打卡等原因引起，应及时提交流程处理考勤异常。  <br/> 
+如有疑问请联系当地负责考勤人事。  <br/>Subject: 考勤异常消息提醒
+From: 锐明集团 <streamax-itsupport@streamax.com>
+
 HTML Email: Darren Boesono(100033319) 考勤异常：  <br/> 
 2025-02-11 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-12 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-13 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-14  早退 1 分钟。  <br/> 2025-02-18 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-19 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-20 缺失下班卡。 缺勤 8 小时。  <br/>   <br/> 
 说明：考勤异常是因请假、出差、漏打卡等原因引起，应及时提交流程处理考勤异常。  <br/> 
-如有疑问请联系当地负责考勤人事。  <br/>
-
----
+如有疑问请联系当地负责考勤人事。  <br/>Subject: 考勤异常消息提醒
+From: 锐明集团 <streamax-itsupport@streamax.com>
 
 HTML Email: Darren Boesono(100033319) 考勤异常：  <br/> 
 2025-02-11 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-12 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-13 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-14  早退 1 分钟。  <br/> 2025-02-18 缺失下班卡。 缺勤 8 小时。  <br/>   <br/> 
 说明：考勤异常是因请假、出差、漏打卡等原因引起，应及时提交流程处理考勤异常。  <br/> 
-如有疑问请联系当地负责考勤人事。  <br/>
+如有疑问请联系当地负责考勤人事。  <br/>Subject: 转发:  【年会】2024年年度大会暨2025年迎春晚会邀请函 2024 Annual Conference & 2025 Spring Gala Invitation
+From: 候倩 <houqian@streamax.com>
 
----
+​
+
+
+
+发件人：锐明集团信息发布专用号<streamax@streamax.com>
+发送时间：2025-02-12 10:42
+主题：【年会】2024年年度大会暨2025年迎春晚会邀请函 2024 Annual Conference & 2025 Spring Gala Invitation
+收件人："董事会办公室"<xcm--1rx0thbgqqiiiqqshf@streamax.com>,"总裁办"<xcm--1rx0thbgqqiiiqqthf@streamax.com>,"财务部"<xcm--1rx0thbgqqiiiqquhf@streamax.com>,"法务部"<xcm--1rx0thbgqqiiiqqvhf@streamax.com>,"审计部"<xcm--1rx0thbgqqiiiqqwhf@streamax.com>,"品牌部"<xcm--1rx0thbgqqiiiqqxhf@streamax.com>,"行政部"<xcm--1rx0thbgqqiiiqqyhf@streamax.com>,"人力资源部"<xcm--1rx0thbgqqiiiqqzhf@streamax.com>,"信息技术部"<xcm--1rx0thbgqqiiiqrqhf@streamax.com>,"前装事业部"<xcm--1rx0thbgqqiiiqrrhf@streamax.com>,"国内营销中心"<xcm--1rx0thbgqqiiiqrshf@streamax.com>,"海外营销中心"<xcm--1rx0thbgqqiiiqrthf@streamax.com>,"产品发展中心"<xcm--1rx0thbgqqiiiqruhf@streamax.com>,"产品研发中心"<xcm--1rx0thbgqqiiiqrvhf@streamax.com>,"采购部"<xcm--1rx0thbgqqiiiqvzhf@streamax.com>,"计划部"<xcm--1rx0thbgqqiiiqwqhf@streamax.com>,"工程部"<xcm--1rx0thbgqqiiiqwrhf@streamax.com>,"陈春"<chenchun@streamax.com>,"袁耕"<yuangeng@streamax.com>,"技术服务中心"<xcm--1rx0thbgqqiiiqrxhf@streamax.com>,"质量中心"<xcm--1rx0thbgqqiiiqrzhf@streamax.com>
+抄送：
+ 
+亲爱的锐明人：
+
+
+Dear all，
+
+
+
+
+诚邀您参加锐明技术2024年年度大会暨2025年迎春晚会。
+
+We would like to invite you to attend 2024 Annual Conference & 2025 Spring Gala with details as below.
+
+
+
+
+时间 Date：
+
+2月15日 周六 13:00-21:00
+
+Feb 15, Saturday, 13:00-21:00
+
+
+
+
+地点 Venue：
+
+主会场 Main venue
+
+深圳宝安·宝立方中心：宝安区新安四路198号
+
+Gems Cube International Hotel : No. 198, Xin'an 4th Road, Bao'an District
+
+分会场 Sub-venue
+
+重庆万豪酒店：重庆市南岸区烟雨路9号
+
+Chongqing Marriott Hotel : No. 9, Yanyu Road, Nan'an District, Chongqing City
+
+成都天投万怡酒店：成都市天府新区博览城路288号
+
+Courtyard by Marriott Chengdu Tiantou : No. 288, Expo City Road, Tianfu New Area
+
+
+
+
+流程 Agenda：
+
+13:00-14:00 签到Sign in
+
+14:00-18:00 2024年年度大会 2024 Annual Conference
+
+19:00-21:00 2025年迎春晚会 2024 Spring Gala
+
+
+
+
+着装要求 Dress Code：
+
+男士正装，女士礼服或正装（Man-Suits, Women-Dresses or Suits）
+
+ 
+
+活动详情及精彩内容请参阅附件海报。
+
+For event details and highlights, please refer to the poster in the attachment.
+
+
+
+
+锐明年会执行组
+
+Streamax Annual Conference Executive Group
+
+
+
+
+
+
+
+ Subject: 【通知类】关于年会奖金发放事宜相关通知  Winning List of the 2024 Annual Conference & 2025 Spring Gala
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
+
+各位同事：
+
+Dear Colleagues,
+
+
+锐明2024年年度大会暨2025年迎春晚会已圆满结束，感谢公司各部门领导及同事的通力配合，保证了我们此次活动的顺利举办，在此感谢所有的锐明人。
+
+The Streamax 2024 Annual Conference & 2025 Spring Gala has successfully concluded. We would like to thank the leadership and colleagues from all departments for their cooperation in ensuring the smooth execution of the event. Our sincere thanks to all Streamax members.
+
+
+
+下面就年会奖品领取事宜公布如下：
+
+Please see below for the details of the prize distribution:
+
+
+
+1、年会奖项设置为：五等奖（300元）、四等奖（400元）、三等奖（600元）、二等奖（1000元）、一等奖（2000元）、加奖（2000元）、特等奖（5000元）；
+
+Prize categories: Fifth prize (300 RMB), Fourth prize (400 RMB), Third prize (600 RMB), Second prize (1000 RMB), First prize (2000 RMB), Additional prize (2000 RMB), Grand prize (5000 RMB).
+
+2、全部奖项均为现金，根据中奖名单部分在活动现场已完成发放，剩余奖金公司转账发放——>名单请查阅附件。
+
+All prizes are in cash. Some prizes were distributed on-site, and the remaining prizes will be transferred by the company to bank accounts—please refer to the attached list.
+
+3、如对中奖明细有任何异议，请联系行政王鸿龄（电话：13265663261）
+
+For any disputes regarding the prize details, please contact 王鸿龄Wang Hongling (Admin) at 13265663261.
+
+发放时间：2月28日前
+
+发放方式：公司转账至银行卡账户
+
+Prize distribution will be completed by February 28th via bank transfer.
+
+
+中奖明细详见附件！
+
+Details are in the attached list.Thank you!
+
+
+ 
+
+       
+
+锐明年会执行组
+
+Streamax Annual Conference Executive Group
+
+
+
+
+ 
+
+ 
+Subject: 您被拦截的邮件明细 --- 2025-02-09 10:00:00~10:59:59
+From: sysadmin <sysadmin@spamsqr.streamax.com>
+
+Softnext SPAM SQR
+
+《 本邮件由 SPAM SQR 系统定时自动发送，请勿回覆。请使用支持 HTML 邮件软体打开 》
+※ 请注意！拦截邮件保存时效为 90 天 ※MySPAM - 个人化邮件管理即时查看拦截邮件并接收邮件,
+添加删除个人黑白名单,
+个人垃圾邮件灵敏度调整.
+按下 MySPAM (安全模式)登录MySPAMMySPAMGO! 连接 QR Code
+https://spamsqr.streamax.com:22222/snspam/spam_request/?email=darren@streamax.com
+
+
+查询日期:2025-02-09 11:02:55 (GMT+8)
+
+过滤名单上限 200 笔，剩余 185 笔
+
+接收:1 (    低危险群:0    中危险群:1    高危险群:0    威胁邮件:0    )
+状态 发件人 主题 日期 关键字类别
+垃圾邮件 Saif  notify Business partnership offer 2025-02-09 10:31:51 杂类
+
+Subject: 您被拦截的邮件明细 --- 2025-02-11 16:00:00~16:59:59
+From: sysadmin <sysadmin@spamsqr.streamax.com>
+
+Softnext SPAM SQR
+
+《 本邮件由 SPAM SQR 系统定时自动发送，请勿回覆。请使用支持 HTML 邮件软体打开 》
+※ 请注意！拦截邮件保存时效为 90 天 ※MySPAM - 个人化邮件管理即时查看拦截邮件并接收邮件,
+添加删除个人黑白名单,
+个人垃圾邮件灵敏度调整.
+按下 MySPAM (安全模式)登录MySPAMMySPAMGO! 连接 QR Code
+https://spamsqr.streamax.com:22222/snspam/spam_request/?email=darren@streamax.com
+
+
+查询日期:2025-02-11 17:02:57 (GMT+8)
+
+过滤名单上限 200 笔，剩余 185 笔
+
+接收:1 (    低危险群:0    中危险群:0    高危险群:0    威胁邮件:1    )
+状态 发件人 主题 日期 关键字类别
+威胁邮件 administrator@suiwutongzhi.cn 保护账户安全，请完成邮箱认证 2025-02-11 16:39:16 光盘贩售
+
+Subject: 【通知类】总裁办发布文件：GMO-WI-12 锐明中东公司管理制度 V1.0
+From: 质量中心 <qualitydepartment@streamax.com>
+
+Dear All，
+
+
+
+
+附件是总裁办发布的受控文件，请知悉并查阅，清单如下：
+| 序号 | 文件编号 | 文件名称 | 版本 | 修订页次 | 修改内容摘要 | 发行类型 | 文件编制部门 | 原件保存部门 | 电子档查阅路径 |
+|
+
+1
+
+|
+
+GMO-WI-12
+
+|
+
+锐明中东公司管理制度
+
+|
+
+V1.0
+
+|
+
+/
+
+|
+
+/
+
+|
+
+新版发布
+
+|
+
+总裁办
+
+|
+
+体系质量
+
+|
+
+V:\企业内容库\STREAMAX GROUP锐明集团\STREAMAX TECHNOLOGY CO.,LTD深圳市锐明技术股份有限公司\Certifications and Reports标准化文件\各部门受控文件\三级-管理规范\总裁办
+
+|
+
+
+
+
+
+
+
+
+
+
+
+Subject: 【通知类】2025年1月考勤确认
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
+
+各位同事：
+        大家好！
+        1月考勤（12月25日-1月24日）已发到大家钉钉消息页面“考勤确认助手”，请大家及时在2月7日15:00前扫码签字确认，逾期未及时签字的将按此表进行工资核算。感谢各位同事支持与配合，谢谢。
+
+
+
+
+         钉钉确认的操作如下：
+         
+             1、在钉钉“考勤确认助手”页面，点开收到的考勤信息
+                         
+
+
+
+      
+             2、点开页面出现提示，扫二维码进入
+             
+
+
+
+
+
+           3、进入后查看没问题后，点签名确认
+            
+
+
+
+          4、签完后要点“完成签名”
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                 人力资源部
+                                                                                                                                                                            2025年2月7日
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Subject: 欢迎使用Coremail电子邮件系统/Welcome to the Coremail e-mail system
+From: postmaster@streamax.com
+
+HTML Email: <div style="width: 800px; font-family:微软雅黑;">
+<div id="head" style="background-color: #0079B3;">
+<div style="font-size: 35px; color: #FFFAFA; padding-top: 20px; padding-left: 25px;">欢迎使用Coremail电子邮件系统</div>
+<div style="color: #FFFAFA; padding-left: 28px; padding-bottom: 30px; padding-top: 5px;">下面是帮助您高效、安全使用邮箱的一些技巧：</div>
+</div>
+<div id="center">
+<table style="font-family:微软雅黑;">
+<tbody>
+
+<tr>
+<td style="padding:15px" valign="top">
+<img style="width: 220px; height: 120px;" src="http://mail.streamax.com/coremail/public/welcome/images/email.PNG">
+</td>
+<td style="padding:15px;"><br>
+<font style="font-size: 25px;font-weight:700;">电子邮件</font>
+<div style="padding-top: 14px;">
+<span><font style="font-weight: bolder;line-height: 1.5;">重要邮件：</font>将您从一堆杂乱的邮件中解放出来，快速处理最重要的邮件</span<br>
+<span><font style="font-weight: bolder;line-height: 1.5;">附件在线预览：</font>无需下载附件，直接在线阅读</span><br>
+<span><font style="font-weight: bolder;line-height: 1.5;">群发单显：</font>让每个收件人只看到自己的地址</span><br>
+<span><font style="font-weight: bolder;line-height: 1.5;">邮件召回：</font>一键召回错发邮件</span>
+</div>
+</td>
+</tr>
+
+<tr>
+<td style="padding:15px" valign="top">
+<img style="width: 220px; height: 120px;" src="http://mail.streamax.com/coremail/public/welcome/images/schedule.PNG">
+</td>
+<td style="padding:15px;"><br>
+<font style="font-size: 25px;font-weight:700;">会议与日程</font>
+<div style="padding-top: 14px;">
+<span><font style="font-weight: bolder;line-height: 1.5;">会议邀请：</font>以邮件形式安排会议，预定会议室，并实时获得与会者的反馈</span<br>
+<span><font style="font-weight: bolder;line-height: 1.5;">日程同步：</font>保持日程在不同设备间的实时同步，但在移动设备间的同步需<br>要购买Coremail Push</span><br>
+<span><font style="font-weight: bolder;line-height: 1.5;">日程提醒：</font>安排日常行程，可通过多种方式接收自定义提醒</span>
+</div>
+</td>
+</tr>
+
+<tr>
+<td style="padding:15px" valign="top">
+<img style="width: 220px; height: 120px;" src="http://mail.streamax.com/coremail/public/welcome/images/safeguard.PNG">
+</td>
+<td style="padding:15px;"><br>
+<font style="font-size: 25px;font-weight:700;">安全保护</font>
+<div style="padding-top: 14px;">
+<span><font style="font-weight: bolder;line-height: 1.5;">自助查询：</font>了解邮箱的登录与发信状况，以及中转站文件下载状况</span<br>
+<span><font style="font-weight: bolder;line-height: 1.5;">全密码保护：</font>提供邮件正文密码、文件夹单独密码、网盘密码、锁屏密码、<br>动态密保(硬件KEY) 等密码保护措施</span><br>
+<span><font style="font-weight: bolder;line-height: 1.5;">安全提醒：</font>包含异地登录提醒、自动转发提醒、垃圾邮件提醒等安全提示</span>
+</div>
+</td>
+</tr>
+
+<tr>
+<td style="padding:15px" valign="top">
+<img style="width: 220px; height: 120px;" src="http://mail.streamax.com/coremail/public/welcome/images/support.PNG">
+</td>
+<td style="padding:15px;"><br>
+<font style="font-size: 25px;font-weight:700;">支持移动设备</font>
+<div style="padding-top: 14px;">
+<span><font style="font-weight: bolder;line-height: 1.5;">移动设备专属模板：</font>提供 iPhone/iPad/Android 专属模板</span<br>
+<span><font style="font-weight: bolder;line-height: 1.5;">Coremail Push：</font>提供目前企业电子邮件市场上最佳的移动办公体验，<br>邮件实时推送，支持邮件、日程、通讯录等多数据的全终端同步</span><br>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="footer" style="padding-top: 50px;padding-bottom: 40px;">
+<table style="font-family:微软雅黑;">
+<tbody><tr>
+<td style="padding:12px">
+<img style="width: 230px;" src="http://mail.streamax.com/coremail/public/welcome/images/logo.PNG">
+</td>
+<td style="padding:12px">
+<span style="font-size: 20px;">开始您的探索吧，祝您工作愉快！<br>Coremail 技术团队敬上</span>
+</td>
+<td style="padding:12px">
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</div>Subject: 考勤异常消息提醒
+From: 锐明集团 <streamax-itsupport@streamax.com>
+
+HTML Email: Darren Boesono(100033319) 考勤异常：  <br/> 
+2025-02-05 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-06 缺失上班卡、下班卡。 缺勤 8 小时。  <br/>   <br/> 
+说明：考勤异常是因请假、出差、漏打卡等原因引起，应及时提交流程处理考勤异常。  <br/> 
+如有疑问请联系当地负责考勤人事。  <br/>Subject: Fw: 转发: 【南方科技大学入校通知】感谢您参与本次活动【2025年2月8日-2月10日】
+From: 刘瑾旭 <jxliu@streamax.com>
+
+
+
+
+-----原始邮件-----
+发件人:刘涛 <liutao@streamax.com>
+发送时间:2025-02-05 15:39:27 (星期三)
+收件人: 刘瑾旭 <jxliu@streamax.com>
+主题: 转发: 【南方科技大学入校通知】感谢您参与本次活动【2025年2月8日-2月10日】
+
+
+
+
+
+
+
+
+
+
+
+
+-----原始邮件-----
+发件人: "刘超(LIU Chao)" <liuc7@mail.sustech.edu.cn>
+发送时间: 2025-02-05 12:43:41
+收件人: "Mohammad Othman" <mothman@streamax.com>,"Fahad Khalid" <Fahad@streamax.com>,"Kelly刘嘉仪" <kelly@streamax.com>,"武冬妮" <Irene@streamax.com>,"叶宇晗Mia" <mia@streamax.com>,"赵楠kayden" <kayden@streamax.com>,"王文恺kevinwang" <kevinwang@streamax.com>,"Austin方仕春" <austin@streamax.com>,"陈惠坚" <Reid@streamax.com>," Kevin Torres" <Torres@streamax.com>,"Martin Comastri" <Martin@streamax.com>,"孟祥奇Frank" <Frank@streamax.com>,"王旭" <Amos@streamax.com>,"潘悦" <Tony@streamax.com>,"Jay叶方杰" <jay@streamax.com>,"Hurrison张钊" <hurrison@streamax.com>,"杨自湘" <Shaun@streamax.com>,"Adam Han" <adamhan@streamax.com>,"邓林锋Lin" <lin@streamax.com>,"Nirajkumar Khandelwal" <Nirajkumar@streamax.com>,"王好科" <Walter@streamax.com>,"冯嘉升" <Leon@streamax.com>,"Leticia胡静" <leticia@streamax.com>,"Guemez Garcia Guillermo" <Guillermo@streamax.com>,"Davyd Ames" <Ames@streamax.com>,"Marvyn Leblanc" <Marvyn@streamax.com>,"Luisa Bonilla Martinez" <Luisa@streamax.com>,"Morris Nguyen" <MorrisNguyen@streamax.com>,"César Emmert" <Cesar@streamax.com>,"Ron Finger" <Ron@streamax.com>,"孙媛" <Willow@streamax.com>,"M R. Thananon Mamaneedeang" <thananon@streamax.com>,"Tuan Van Nguyen" <Tuan@streamax.com>,"Silvia 杨倩雯" <silvia@streamax.com>,"Poillion Gregory" <gregory@streamax.com>,"Antonio Cucco Fiore" <antonio@streamax.com>,"蒋新春" <xcjiang@streamax.com>,"刘众" <liuzhong@streamax.com>,"王崴平" <wpwang@streamax.com>,"王晴" <wangqing@streamax.com>,"刘涛" <liutao@streamax.com>,"周长久" <cjzhou@streamax.com>,"常国嘉" <gjchang@streamax.com>,"彭昌杰" <cjpeng1@streamax.com>,"刘浪" <liulang@streamax.com>,"舒家兴" <jxshu@streamax.com>,"郭云成" <ycguo@streamax.com>,"李新" <lixin1@streamax.com>,"王立超" <lcwang2@streamax.com>,"赵启明" <qmzhao@streamax.com>,"亓硕" <qishuo@streamax.com>,"魏利飞" <lfwei@streamax.com>,"张高铭" <gmzhang1@streamax.com>,"吴伟1" <wuwei2@streamax.com>,"马珂" <make@streamax.com>,"李国平" <gpli@streamax.com>,"马家骏" <jjma@streamax.com>,"胡亚棋" <yqhu@streamax.com>,"张洪鋮" <hczhang@streamax.com>,"姬冬冬" <ddji@streamax.com>,"刘化东" <hdliu@streamax.com>,"李瑞卿" <rqli@streamax.com>,"望建军" <jjwang@streamax.com>,"云展翅" <zcyun@streamax.com>,"石高阳" <gyshi@streamax.com>,"左凯" <zuokai1@streamax.com>," 朱彬彬" <bbzhu@streamax.com>,"朱银锋" <yfzhu2@streamax.com>,"陈宏扬" <hychen@streamax.com>,"程佳浩" <jhcheng@streamax.com>,"仲尧" <zhongyao@streamax.com>,"叶远青" <yqye@streamax.com>,"吴会兵" <hbwu@streamax.com>,"肖文涛" <wtxiao@streamax.com>,"唐雄" <tangxiong@streamax.com>,"于康华" <khyu@streamax.com>,"李然" <liran@streamax.com>,"卢朝跃" <cylu@streamax.com>,"容贵添" <gtrong@streamax.com>,"卢庆禧" <qxlu@streamax.com>,"罗扬" <luoyang@streamax.com>,"刘尚界" <sjliu@streamax.com>,"黄正杰" <zjhuang@streamax.com>,"周邦尧" <byzhou@streamax.com>,"朱博" <zhubo@streamax.com>," 邓玉龙" <yldeng@streamax.com>,"王虎" <wanghu@streamax.com>,"宋学武" <xwsong@streamax.com>,"陈洋" <chenyang@streamax.com>,"邓景文" <jwdeng@streamax.com>,"唐小林" <xltang@streamax.com>,"黄云亮" <ylhuang@streamax.com>,"王伟" <wangwei1@streamax.com>,"罗智" <luozhi@streamax.com>,"张扬" <zhangyang2@streamax.com>,"程良稳" <lwcheng@streamax.com>,"周汉苗" <hmzhou@streamax.com>,"甘龙弟" <ldgan@streamax.com>,"胡定江" <djhu@streamax.com>,"廖鹏飞" <pfliao@streamax.com>,"喻芗霖" <xlyu@streamax.com>,"前装 喻志军 13510200876" <zjyu@streamax.com>,"王冲豪" <chwang@streamax.com>,"苏琪" <suqi@streamax.com>,"刘泽旭" <zxliu@streamax.com>,"孙彦龙" <ylsun@streamax.com>,"陈程" <chencheng@streamax.com>,"程帅" <chengshuai@streamax.com>,"代灿" <daican@streamax.com>,"林千斌" <qblin@streamax.com>,"王洪飞" <hfwang@streamax.com>,"邓达" <dengda@streamax.com>,"熊康民" <kmxiong@streamax.com>,"乐良康" <lkle@streamax.com>,"张斌" <zhangbin@streamax.com>,"基瑜" <jiyu@streamax.com>,"李亚楠" <ynli@streamax.com>,"马亚军" <yjma@streamax.com>,"韩亚霖" <ylhan@streamax.com>,"范佳龙" <jlfan@streamax.com>,"杨轩宇" <xyyang@streamax.com>,"赵海峰" <hfzhao@streamax.com>,"黄凯明" <kmhuang@streamax.com>,"刘嫚嫚" <mmliu@streamax.com>,"农顾" <nonggu@streamax.com>,"王启强" <qqwang@streamax.com>,"彭康慧" <khpeng@streamax.com>,"罗祥平" <xpluo@streamax.com>,"蒋海龙" <hljiang@streamax.com>,"陈宏昌" <hcchen2@streamax.com>,"chenyin" <chenyin@streamax.com>,"周志锋" <zfzhou@streamax.com>,"王海虎" <hhwang@streamax.com>,"谢佳蓉" <jrxie@streamax.com>,"张建勇" <jyzhang@streamax.com>,"张汝泉" <rqzhang@streamax.com>,"张吕" <zhanglv@streamax.com>,"周延锢" <ygzhou@streamax.com>,"李傲祥" <axli@streamax.com>,"李峰勤" <fqli@streamax.com>,"候倩" <houqian@streamax.com>,"朱强" <zhuqiang@streamax.com>,"宋宇" <songyu@streamax.com>,"Johann Sandoval" <Johann@streamax.com>,"Danish Shah" <Danish@streamax.com>,"Nursultan" <Nursultan@streamax.com>,"Daniil Fadeev" <daniil3@streamax.com>,"danishwoo" <danishwoo@yahoo.com>,"陈正熙" <Nic@streamax.com>,"Fufa Bonsa Feyisa" <Bonsa@streamax.com>,"james801" <james801@qq.com>,"zhenzhong" <zhenzhong@tju.edu.cn>,"gorain2526" <gorain2526@gmail.com>,"jlkk3623" <jlkk3623@gmail.com>,"kikihe7700" <kikihe7700@gmail.com>,"吴志卫" <zwwu@streamax.com>,"陈青" <chenqing@streamax.com>,"刘永强" <yqliu@streamax.com>,"洪辉" <honghui@streamax.com>,"蔡金鹏" <jpcai@streamax.com>,"杨文杰" <wjyang@streamax.com>,"王泓乔" <hqwang@streamax.com>,"甘洪飞" <hfgan@streamax.com>,"王朝亮" <clwang@streamax.com>,"张文豪" <whzhang@streamax.com>,"郭新新" <xxguo@streamax.com>,"温永照" <yzwen@streamax.com>,"郗宏涛" <htxi@streamax.com>,"成震" <chengzhen@streamax.com>,"严守道" <sdyan@streamax.com>,"李宏钧" <hjli@streamax.com>,"郭典" <guodian@streamax.com>,"巨永林" <ylju@streamax.com>,"James" <James@streamax.com>,"张倍荣" <brzhang@streamax.com>,"'吴小亮'" <xlwu@streamax.com>,"秦杰" <qinjie@streamax.com>,"郭之先" <zxguo@streamax.com>,"胡迪" <hudi@streamax.com>,"高俊婷" <jtgao@streamax.com>,"谢锐杰" <rjxie@streamax.com>,"邓奖卿" <jqdeng@streamax.com>,"李伟耀" <wyli@streamax.com>,"王明明" <mmwang@streamax.com>,"张羽蒙" <ymzhang@streamax.com>,"施颖" <shiying@streamax.com>
+抄送: 
+主题: 【南方科技大学入校通知】感谢您参与本次活动【2025年2月8日-2月10日】
+
+
+
+
+亲爱的本次活动参与者：
+
+       我们很高兴地通知您，您已成功报名参加本次活动。
+
+       感谢您的热情参与！在活动开始之前，我们想通过这封邮件向您确认您的报名成功，并向您提供一些重要的信息：
+
+1. 所有参会者都应从南方科技大学1号门进入校园（请导航设置目的地为：南方科技大学1号门），请您在门口出示本邮件后方可入校；
+
+2. 进入校园后，如果您是开车，请您导航搜索“南方科技大学工学院“，并根据导航指示将车停在工学院负一楼地下停车场，并统一从停车场C区A1号电梯进入工学院大楼；
+
+3.  我们希望您能在活动开始前留出足够的时间，以便顺利办理入校手续并找到活动地点；
+
+4. 请您查收校园指引图（本邮件附件）。
+
+ 活动时间和地点：
+
+日期：2025年2月8日-2月10日
+
+时间：全天
+
+地点：南方科技大学工学院南楼八楼812、813会议室
+
+        再次感谢您对我们活动的支持和参与。我们期待着与您共度这个充满学术和交流的时刻！
+
+        最诚挚的问候！
+
+
+
+
+
+
+
+ Subject: Business partnership offer
+From: Saif <tineco.messaging@tineco.com>
+
+HTML Email: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+Dear Friend I trust you are doing well. I have a business partnership proposal for you. Contact me on my personal email for more details please : siaf.al-islam.gaddafi@outlook.com Best Regards Saif
+<div class="MsoNormal" align="center" style="text-align:center;">
+<hr>
+</div>
+<p class="MsoNormal">该电子邮件中可能包含商业秘密信息，该电子邮件（包括所有附件）仅供预期的收件人使用，若您是非预期的邮件接收人，请通过回复本电子邮件通知我们，同时将其从系统中删除并销毁所有副本。该电子邮件也受版权保护，未经版权所有者的同意，不得复制、改编或分发本文档的任何部分。针对该电子邮件中所包含的机密信息的滥用和不当使用行为，添可将采取必要的法律措施。This e-mail may contain trade secret information and it(including all
+ attachments) is for the use of the addressee(s) only. If you have received it in error, please notify us by replying e-mail, delete it from your system and destroy any copies. This e-mail is also subject to copyright. No part of it should be reproduced, adapted
+ or distributed without the copyright owner's consent. Tineco shall take any legal action necsssirily agaist misuse or misconduct of the information contained in this email.</p>
+ </body>
+</html>
+Subject: 【南方科技大学入校通知】感谢您参与本次活动【2025年2月8日-2月10日】
+From: "刘超(LIU Chao)" <liuc7@mail.sustech.edu.cn>
+
+亲爱的本次活动参与者：
+
+&nbsp;&nbsp; &nbsp; &nbsp; 我们很高兴地通知您，您已成功报名参加本次活动。
+
+&nbsp; &nbsp; &nbsp; &nbsp;感谢您的热情参与！在活动开始之前，我们想通过这封邮件向您确认您的报名成功，并向您提供一些重要的信息：
+
+1. 所有参会者可从从南方科技大学1号门或6号门（步行可选择6号门进入）进入校园（请导航设置目的地为：南方科技大学1号门或6号门），请您在门口出示本邮件后方可入校；
+
+2. 进入校园后，如果您是开车，请务必从1号门&nbsp;进入，请您导航搜索“南方科技大学工学院“，并根据导航指示将车停在工学院负一楼地下停车场，并统一从停车场C区A1号电梯进入工学院大楼；
+
+3. &nbsp;我们希望您能在活动开始前留出足够的时间，以便顺利办理入校手续并找到活动地点；
+
+4. 请您查收校园指引图（本邮件附件）。
+
+&nbsp;活动时间和地点：
+
+日期：2025年2月8日-2月10日
+
+时间：全天
+
+地点：南方科技大学工学院南楼八楼812、813会议室
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;再次感谢您对我们活动的支持和参与。我们期待着与您共度这个充满学术和交流的时刻！
+
+&nbsp; &nbsp; &nbsp; &nbsp; 最诚挚的问候！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+&nbsp;Subject: 【汇报类】矿山报警证据分析项目周报-20250224
+From: 彭昌杰 <cjpeng1@streamax.com>
 
 各位同事好，以下是矿山报警证据分析项目进度汇报。
 
@@ -152,9 +864,69 @@ HTML Email: Darren Boesono(100033319) 考勤异常：  <br/>
 | 67 | 大块矿石报警 | 挖机B11-27 | 00D2014295 | 将军戈壁二号露天煤矿 | 2025/2/19 8:33:17 | 空斗误检 | 报警前后20分钟 | 已上传 | |
 
 
+Subject: 【通知类】2025年2月考勤确认
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
+
+各位同事：
+
+        大家好！
+        2月考勤（1月25日-2月24日）已发到大家钉钉消息页面“考勤确认助手”，请大家及时在2月28日15:00前扫码签字确认，逾期未及时签字的将按此表进行工资核算。感谢各位同事支持与配合，谢谢。
 
 
----
+
+
+         钉钉确认的操作如下：
+         
+             1、在钉钉“考勤确认助手”页面，点开收到的考勤信息
+                         
+
+
+
+      
+             2、点开页面出现提示，扫二维码进入
+             
+
+
+
+
+
+           3、进入后查看没问题后，点签名确认
+            
+
+
+
+          4、签完后要点“完成签名”
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                 人力资源部
+                                                                                                                                                                            2025年2月28日
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Subject: 【通知类】关于2月份考勤月结日的温馨提示
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
 
 各位同事：
 
@@ -202,9 +974,8 @@ HTML Email: Darren Boesono(100033319) 考勤异常：  <br/>
 
 
                                                                                               
- 
-
----
+ Subject: 客户接待行为规则Customer Reception Management Regulations
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
 
 ​​​
 
@@ -214,9 +985,8 @@ HTML Email: Darren Boesono(100033319) 考勤异常：  <br/>
 
 
 
- 
-
----
+ Subject: 【通知类】2024年第4季度知识产权奖励发放通知
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
 
 ​​各位同事：
 
@@ -243,9 +1013,8 @@ HTML Email: Darren Boesono(100033319) 考勤异常：  <br/>
 
 
 
-
-
----
+Subject: 【重要通知Important Notice】关于产品发展中心设立“海外新品推广官”岗位及任命通知 Notice on the Establishment of the "Overseas New Product Promotion Officer" Position and Appointments in the Product Development Center
+From: 锐明集团信息发布专用号 <streamax@streamax.com>
 
 ​
 
@@ -273,9 +1042,8 @@ HTML Email: Darren Boesono(100033319) 考勤异常：  <br/>
 
 
 
-
-
----
+Subject: 考勤异常消息提醒
+From: 锐明集团 <streamax-itsupport@streamax.com>
 
 HTML Email: Darren Boesono(100033319) 考勤异常：  <br/> 
 2025-02-11 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-12 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-13 缺失上班卡、下班卡。 缺勤 8 小时。  <br/> 2025-02-14  早退 1 分钟。  <br/> 2025-02-18 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-19 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-20 缺失下班卡。 缺勤 8 小时。  <br/> 2025-02-21 缺失下班卡。 缺勤 8 小时。  <br/>   <br/> 

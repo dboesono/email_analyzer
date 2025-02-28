@@ -1,0 +1,158 @@
+Received: from spamsqr.streamax.com (unknown [192.168.6.54])
+	by email-app1 (Coremail) with SMTP id tAaowACXpRTwdKdnUNIrAA--.58493S3;
+	Sat, 08 Feb 2025 23:14:56 +0800 (CST)
+Received: from APC01-PSA-obe.outbound.protection.outlook.com (mail-psaapc01on2121.outbound.protection.outlook.com [40.107.255.121])
+	by spamsqr.streamax.com with ESMTPS id 518FEhMM025140
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <darren@streamax.com>; Sat, 8 Feb 2025 23:14:51 +0800 (GMT-8)
+	(envelope-from tineco.messaging@tineco.com)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=CRDdLuhnPNFAvZcMUtNi1hRCUUaBjmrNyCzyDsVZiTwhVZ7HHMMpkgEJRi0adl+lRj7/aA6SlS8FJdg2GXqYvl53PemD4Mf92FUHY/mzpLzQQDXbgEkGTTMS140W2HTpPnZDZvtcohFR6qYp2i5yVZh9V761NK1RmRULHqUvwIqooXI4qjvpIyz/wXbewAkMPXdoH3oTK26IhymH0iCDMjwo70VHs0cauWDMDWmTqDUZpKWS9yw5w2OmV7esG6JuU1WhPIf1MEekenWUDxyhSV0wQEi+3iYrGQCzlZSxceJ1HtE0xknzxWKfjn+oVSCP0VeIMPc7nBxoA+RSK61dMg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=8c9WuDSJ34GxsJPSzsyvZrUhx7XEzDFnQkEZtxUwMzs=;
+ b=KBwTJYnTfzH4PcJ9zqg6ECxWK7d8rYD6U0ewgHdsLqRByn+ncAp/H3/Nh5JYyUhCcPly7V+4yvVz2+iYGfn4ziPXsyAAXPk52TrLTrNM7SDkSCihsA1qzwToXNwyTqtfSOqwOdfAkToUsJA+B/N6gbOJEF4sygeQ9EIpZaGIXKcADhl1nH/5ftCm8FiS1Hkkv0RW0E6VeGyvmSgZXM3+bklnpbh7f5Ul9hpAXCdW6dxl5fYtJbMHgKk1cURePj3DHfJaK+nJXvSGURCRn2fjhp8Vt87UyJbg8JZYjwbqncvHVBGPw0IoT+4OHH1LptqNl7MwM+CZoFOjqdmFGUr0mA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass (sender ip is
+ 153.35.131.100) smtp.rcpttodomain=streamax.com smtp.mailfrom=tineco.com;
+ dmarc=pass (p=none sp=none pct=100) action=none header.from=tineco.com;
+ dkim=none (message not signed); arc=none (0)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tineco.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=8c9WuDSJ34GxsJPSzsyvZrUhx7XEzDFnQkEZtxUwMzs=;
+ b=qx+YlQjW0FokC/LKXaMNID7JD585pylHywyOmRqyYhSRXrHCWwhBZDpK11yDP7UdN9/AkzrILr7RN66RtJ+INinxN+zWa4nKr8bRjBolu2OxKAwD0y+2vAltuY/4Zy+WPZ7nUHYI9sRStP6vbI7jrEcVd366ZvAdKdEQ+FWKPdY=
+Received: from PS2PR02CA0007.apcprd02.prod.outlook.com (2603:1096:300:41::19)
+ by TYZPR01MB4187.apcprd01.prod.exchangelabs.com (2603:1096:400:1c5::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8422.11; Sat, 8 Feb
+ 2025 14:59:20 +0000
+Received: from HK2PEPF00006FAF.apcprd02.prod.outlook.com
+ (2603:1096:300:41:cafe::3) by PS2PR02CA0007.outlook.office365.com
+ (2603:1096:300:41::19) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8398.31 via Frontend Transport; Sat,
+ 8 Feb 2025 14:59:19 +0000
+X-MS-Exchange-Authentication-Results: spf=pass (sender IP is 153.35.131.100)
+ smtp.mailfrom=tineco.com; dkim=none (message not signed)
+ header.d=none;dmarc=pass action=none header.from=tineco.com;
+Received-SPF: none (spamsqr.streamax.com: domain of tineco.messaging@tineco.com does not designate permitted sender hosts)
+Received: from mail.tineco.com (153.35.131.100) by
+ HK2PEPF00006FAF.mail.protection.outlook.com (10.167.8.5) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8398.14 via Frontend Transport; Sat, 8 Feb 2025 14:59:19 +0000
+Received: from [45.76.252.15] (10.108.112.253) by TP-EXC-01.tineco.com
+ (10.108.112.21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.1118.7; Sat, 8 Feb 2025
+ 22:58:55 +0800
+MIME-Version: 1.0
+Subject: Business partnership offer
+From: Saif <tineco.messaging@tineco.com>
+To: <darren@streamax.com>
+Content-Type: multipart/mixed;
+	boundary="===============1756172814869196168=="
+Message-ID: <2c7916d8-8c62-43db-a1b6-40d1abcb0f19@TP-EXC-01.tineco.com>
+Date: Sat, 8 Feb 2025 22:58:55 +0800
+X-Originating-IP: [10.108.112.253]
+X-ClientProxiedBy: TP-EXC-02.tineco.com (10.108.112.22) To
+ TP-EXC-01.tineco.com (10.108.112.21)
+X-EOPAttributedMessage: 0
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: HK2PEPF00006FAF:EE_|TYZPR01MB4187:EE_
+X-MS-Office365-Filtering-Correlation-Id: c6f7d6b5-94fe-46e6-b816-08dd48512a3a
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam:
+	BCL:0;ARA:13230040|1800799024|376014|82310400026|36860700013|8096899003|567454004;
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?bjJ5UjNBSnp6QStUcU02RWpuZlE4dGtIb3UzMWdEVU0zbHVxTzFWM0YvK0c1?=
+ =?utf-8?B?SzFJVTYycWhEcDBPeThWMSt4NnQ5OXN4YlhrQVlxbTAvdG5Pb0Y3TU9rOTdh?=
+ =?utf-8?B?WDlpZkZJcGF4WnpCS1ROWFpaYlIzNXoxUWh3ZWFIb0FMRy93MFVQaGtPSjJa?=
+ =?utf-8?B?T2Q4L055YWc5VDN6M3FhZWMyY2MxSGV3YTU1S3VPSVNQUGZnSmJmeW1vMW05?=
+ =?utf-8?B?c1lmWE9paDR0ZHZUd1M2RzROa2xGS0JjVFdMWGV6NHVjR252eHNJZU53WHhi?=
+ =?utf-8?B?SEZmQXFaa05tYmpNZ3MxaWRuZXhrd21yQ3FCUjZxODZxUG1GcTlaNkt0bUtv?=
+ =?utf-8?B?RUlvdW9vMWdjMzI1dk1yeWt6aDNnNUcwVVVTZldvcktTd2lPa0RjVEpEWTRl?=
+ =?utf-8?B?b3lmcitzTEVDdmgwR0JkeVk5eFFYS3JkbkhRNDNSVUx2dzJLWjBEdmxFeHhC?=
+ =?utf-8?B?OUVuUkFVUEhGbjhDL3BqTVZuZk5XUmZuSUM2bHQ1WlRiVlhpMjBRSHJqTUtZ?=
+ =?utf-8?B?WUQ0NzNSbHNHdngvTlEwUjRDWCtCRmR6aU5vK2hlQVBMMHNPNEhtT3FOd3ZF?=
+ =?utf-8?B?WFZ5UW5TanBvY0d3TlFJcExqWG9BcHdwY05MQVl2ZkJrLzlLQmJMaHRua3M2?=
+ =?utf-8?B?NkQyVzk5bnpWNnpydng5d3dRcFRlRFVlZVVlSGVqKzBKVzFWVW9tU2V1MmpY?=
+ =?utf-8?B?ZngzMWZWYmIrZTUrRWJWbVoxaDkxZmVSZFJZa1dncDZITFJHN0szVXI0LzRO?=
+ =?utf-8?B?QmJjaElRTnNmdFpZYTV5VDlNU3BvZUlCZUswZXdDWk53VU1WYzJHTE5kZjNH?=
+ =?utf-8?B?UnN3UHhPM1NOQVBtR1lkTlIxd2playsxLzkraVpSTUVNcE5zaVN5cFhkNHVY?=
+ =?utf-8?B?KzAyLy9YbUNKQlBwL2hYUVA4Z2QxbHZ3MXdIbHczRWNhTkZIbmZseEp6dVpX?=
+ =?utf-8?B?ZFQzeG9Tb3FhbDQ4ZlVtNFpXcFBLZG1Xem5LdWpOaFprazlaRHZVT2p1UVBz?=
+ =?utf-8?B?Q2RVeUlKekZtblZqdXlFOFFHUHZkRlhuZFRaR0RnRC9sVmdyZXBhbHJHbHlN?=
+ =?utf-8?B?bElXaG9iUTBueGVJaHNlcSt0SnUyMGtDZmZISm0rWFdObVZNcE9NWDFHbzh5?=
+ =?utf-8?B?dDJOM3g0L2xuMEI5S1ZtaFFkL0lYOCtLTmxmQy9SdEJKUXNoUTY2dlUvZ0ta?=
+ =?utf-8?B?ZG5CQlJIaTNDMGlWR0VXZW5maTJkYTdyV2QrdDZCMERpUkhlMFdOODhLN0VW?=
+ =?utf-8?B?VGo4RkFQcm9XWEdiOFRZWHhKeTZydGhkU1dOcEUyclJNVHdKNFM2L2ZtZC9j?=
+ =?utf-8?B?YmJyZW9abkxHZTBabGtOTEE4WTFqYTVPcmN4eGdYTGVDMUVEbU0ydWdIL3lU?=
+ =?utf-8?B?SjdUWlF5Z3QyRkVZZ2Q2cWxDZytuZm92MEtrVElBMWxvS3FRWm5CSHNtUWMw?=
+ =?utf-8?B?K011TXFWYk9scXJtbk1SR3JOTCs2NmZScXBvSUIwYW9OWWVSSUhEZE1PdEJl?=
+ =?utf-8?B?QVdnQW9IV0ZYdjZSNzlkRXI0QTRPU0MrdGl3VUhFMFFJSDY5cEdDUjNDQVBr?=
+ =?utf-8?B?czVTTDNDTFljLzJ0TUZjR0tBd0JObDZwaVhtaTRoR0x3UHVFTkNoRGJNQjBN?=
+ =?utf-8?B?MDBNRXVtaDc4V2RKV3hTVHlDZXB4T1V1RzJwT2p0S2tnVFRxL09NaXJqOHpM?=
+ =?utf-8?B?ZEZ5aGhQOTMzWStQTnpDR3NQU2JqQWtHQVR3blNncGdUQ0ZGc2puOCtKSVFZ?=
+ =?utf-8?B?bXBkZXlTQ1hIWFdseVlLUnk4cGIwYmN6ZFRtT3dUZ3lkV1M3OFZ6MGt2by9x?=
+ =?utf-8?B?N2w4Wjl6NmlmczUyekFnL3B5Z1dHQm0vcHh5RGxCVG4wZ3ZidHRzY2VWakpF?=
+ =?utf-8?B?a3UzdjQ2c3hScDYya1FkTjlPY09Pb1NUaE5nMS9nUHk1eENvZlJueW1WcVYw?=
+ =?utf-8?B?WEkzby8xVEpwcHNERnBuR3hMbnYyTFE5UTMzTjVSbnlsM0xYSVRzOHpvOE5x?=
+ =?utf-8?B?em1CZERCRTY2UjZTem1wZlRNVnR1VmhvbHE5WHljWnFSMTdOL1BXRG5kemk4?=
+ =?utf-8?Q?X+InuF?=
+X-Forefront-Antispam-Report:
+	CIP:153.35.131.100;CTRY:CN;LANG:zh-cn;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail.tineco.com;PTR:InfoDomainNonexistent;CAT:NONE;SFS:(13230040)(1800799024)(376014)(82310400026)(36860700013)(8096899003)(567454004);DIR:OUT;SFP:1102;
+X-OriginatorOrg: tineco.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 08 Feb 2025 14:59:19.2645
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: c6f7d6b5-94fe-46e6-b816-08dd48512a3a
+X-MS-Exchange-CrossTenant-Id: 51da3866-3ad6-43ab-b3d1-51fa58fc6a5e
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=51da3866-3ad6-43ab-b3d1-51fa58fc6a5e;Ip=[153.35.131.100];Helo=[mail.tineco.com]
+X-MS-Exchange-CrossTenant-AuthSource:
+	HK2PEPF00006FAF.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: TYZPR01MB4187
+X-DNSRBL: 
+X-SPAM-SOURCE-CHECK: pass
+X-MAIL:spamsqr.streamax.com 518FEhMM025140
+X-CM-TRANSID:tAaowACXpRTwdKdnUNIrAA--.58493S3
+Authentication-Results: email-app1; spf=neutral smtp.mail=tineco.messa
+	ging@tineco.com;
+X-Coremail-Antispam: 1UD129KBjvJXoW7Zr15uFWrAF15Kw48Jr47Arb_yoW8Jw4Dpr
+	Zaq3yDG3y8AFnIvr1vka10vr1rJrZxZr45Grn5G34xArs5WryY9FnFq3yYvasrGrZavw1Y
+	qF43Xr1DZ3WaqrJanT9S1TB71UUUUU7qnTZGkaVYY2UrUUUUjbIjqfuFe4nvWSU5nxnvy2
+	9KBjDU0xBIdaVrnUUvcSsGvfC2KfnxnUUI43ZEXa7xR_UUUUUUUUU==
+
+--===============1756172814869196168==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5Pg0KRGVhciBGcmllbmQg
+SSB0cnVzdCB5b3UgYXJlIGRvaW5nIHdlbGwuIEkgaGF2ZSBhIGJ1c2luZXNzIHBhcnRuZXJzaGlw
+IHByb3Bvc2FsIGZvciB5b3UuIENvbnRhY3QgbWUgb24gbXkgcGVyc29uYWwgZW1haWwgZm9yIG1v
+cmUgZGV0YWlscyBwbGVhc2UgOiBzaWFmLmFsLWlzbGFtLmdhZGRhZmlAb3V0bG9vay5jb20gQmVz
+dCBSZWdhcmRzIFNhaWYNCjxkaXYgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIgc3R5
+bGU9InRleHQtYWxpZ246Y2VudGVyOyI+DQo8aHI+DQo8L2Rpdj4NCjxwIGNsYXNzPSJNc29Ob3Jt
+YWwiPuivpeeUteWtkOmCruS7tuS4reWPr+iDveWMheWQq+WVhuS4muenmOWvhuS/oeaBr++8jOiv
+peeUteWtkOmCruS7tu+8iOWMheaLrOaJgOaciemZhOS7tu+8ieS7heS+m+mihOacn+eahOaUtuS7
+tuS6uuS9v+eUqO+8jOiLpeaCqOaYr+mdnumihOacn+eahOmCruS7tuaOpeaUtuS6uu+8jOivt+mA
+mui/h+WbnuWkjeacrOeUteWtkOmCruS7tumAmuefpeaIkeS7rO+8jOWQjOaXtuWwhuWFtuS7juez
+u+e7n+S4reWIoOmZpOW5tumUgOavgeaJgOacieWJr+acrOOAguivpeeUteWtkOmCruS7tuS5n+WP
+l+eJiOadg+S/neaKpO+8jOacque7j+eJiOadg+aJgOacieiAheeahOWQjOaEj++8jOS4jeW+l+Wk
+jeWItuOAgeaUuee8luaIluWIhuWPkeacrOaWh+aho+eahOS7u+S9lemDqOWIhuOAgumSiOWvueiv
+peeUteWtkOmCruS7tuS4reaJgOWMheWQq+eahOacuuWvhuS/oeaBr+eahOa7peeUqOWSjOS4jeW9
+k+S9v+eUqOihjOS4uu+8jOa3u+WPr+WwhumHh+WPluW/heimgeeahOazleW+i+aOquaWveOAglRo
+aXMgZS1tYWlsIG1heSBjb250YWluIHRyYWRlIHNlY3JldCBpbmZvcm1hdGlvbiBhbmQgaXQoaW5j
+bHVkaW5nIGFsbA0KIGF0dGFjaG1lbnRzKSBpcyBmb3IgdGhlIHVzZSBvZiB0aGUgYWRkcmVzc2Vl
+KHMpIG9ubHkuIElmIHlvdSBoYXZlIHJlY2VpdmVkIGl0IGluIGVycm9yLCBwbGVhc2Ugbm90aWZ5
+IHVzIGJ5IHJlcGx5aW5nIGUtbWFpbCwgZGVsZXRlIGl0IGZyb20geW91ciBzeXN0ZW0gYW5kIGRl
+c3Ryb3kgYW55IGNvcGllcy4gVGhpcyBlLW1haWwgaXMgYWxzbyBzdWJqZWN0IHRvIGNvcHlyaWdo
+dC4gTm8gcGFydCBvZiBpdCBzaG91bGQgYmUgcmVwcm9kdWNlZCwgYWRhcHRlZA0KIG9yIGRpc3Ry
+aWJ1dGVkIHdpdGhvdXQgdGhlIGNvcHlyaWdodCBvd25lcidzIGNvbnNlbnQuIFRpbmVjbyBzaGFs
+bCB0YWtlIGFueSBsZWdhbCBhY3Rpb24gbmVjc3NzaXJpbHkgYWdhaXN0IG1pc3VzZSBvciBtaXNj
+b25kdWN0IG9mIHRoZSBpbmZvcm1hdGlvbiBjb250YWluZWQgaW4gdGhpcyBlbWFpbC48L3A+DQog
+PC9ib2R5Pg0KPC9odG1sPg0K
+
+--===============1756172814869196168==--

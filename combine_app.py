@@ -14,9 +14,9 @@ import openai
 
 # -------------------- VolcEngine API Setup --------------------
 # Set API Key for authentication (replace with your actual API key)
-from config import ARK_API_KEY
+# from config import ARK_API_KEY
 
-os.environ["ARK_API_KEY"] = ARK_API_KEY
+os.environ["ARK_API_KEY"] = "5ade76c2-9629-4076-aebd-3550719382e6"
 client = OpenAI(
     api_key=os.environ.get("ARK_API_KEY"),
     base_url="https://ark.cn-beijing.volces.com/api/v3",
@@ -49,10 +49,10 @@ def extract_email_content(eml_file):
                     body = part.get_payload(decode=True).decode(charset, errors="ignore")
                     break
         if body is None:
-            if msg.get_body(preferencelist=("plain")):
-                body = msg.get_body(preferencelist=("plain")).get_content()
-            elif msg.get_body(preferencelist=("html")):
-                body = "HTML Email: " + msg.get_body(preferencelist=("html")).get_content()
+            if msg.get_body(preferencelist=("plain",)):
+                body = msg.get_body(preferencelist=("plain",)).get_content()
+            elif msg.get_body(preferencelist=("html",)):
+                body = "HTML Email: " + msg.get_body(preferencelist=("html",)).get_content()
             else:
                 body = "No readable content available."
         logging.info(f"Extracted Email: {subject} from {sender}")
@@ -63,11 +63,15 @@ def extract_email_content(eml_file):
 
 def analyze_emails_with_volcengine(all_emails, user_prompt):
     """
-    Combines all email bodies and sends them to the VolcEngine API
+    Combines all emails (including header and body) and sends them to the VolcEngine API
     for analysis based on the provided user prompt.
     """
     try:
-        combined_email_text = "\n\n---\n\n".join(all_emails)
+        combined_email_text = ""
+        for index, email_text in enumerate(all_emails, start=1):
+            # combined_email_text += f"------start of email {index}-----\n"
+            combined_email_text += email_text
+            # combined_email_text += f"\n----- end of email {index}------\n\n"
         # Optionally save the combined text for debugging
         with open("combined_emails.txt", "w", encoding="utf-8") as file:
             file.write(combined_email_text)
@@ -156,7 +160,6 @@ def fetch_and_save_emails(mail, start_date, end_date, output_dir="emails", num_m
 
     return saved_files
 
-
 def create_zip_from_dir(directory, zip_filename="downloaded_emails.zip"):
     """Create a ZIP file from all files in a directory."""
     with zipfile.ZipFile(zip_filename, "w", zipfile.ZIP_DEFLATED) as zipf:
@@ -218,7 +221,6 @@ with tab1:
                 else:
                     st.error("No emails found in the specified timeframe.")
 
-
 # ---------- Tab 2: Analyze Emails ----------
 with tab2:
     st.header("Analyze Emails with AI")
@@ -243,7 +245,9 @@ with tab2:
             all_email_texts = []
             for eml_file in eml_files:
                 email_data = extract_email_content(eml_file)
-                all_email_texts.append(email_data["body"])
+                # Combine subject, sender and body for analysis
+                email_content = f"Subject: {email_data['subject']}\nFrom: {email_data['sender']}\n\n{email_data['body']}"
+                all_email_texts.append(email_content)
             combined_analysis = analyze_emails_with_volcengine(all_email_texts, user_prompt)
             st.subheader("AI Analysis Summary")
             st.markdown(f"**AI Summary:**\n\n{combined_analysis}")
@@ -287,4 +291,5 @@ st.markdown("""
         }
     </style>
 """, unsafe_allow_html=True)
+
 
